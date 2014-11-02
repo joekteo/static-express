@@ -1,3 +1,4 @@
+
 $(document).ready(function() {
   $('.fadingText').mouseover(function() {
     $(this).fadeOut(200);
